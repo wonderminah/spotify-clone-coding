@@ -1,6 +1,6 @@
 import './App.css'
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Album from "./pages/Album";
 import Artist from "./pages/Artist";
 import Home from "./pages/Home";
@@ -10,7 +10,7 @@ import Section from "./pages/Section";
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <nav className="bg-gray-900 text-white p-4 flex gap-4">
         <Link to="/album" className="hover:text-green-500">앨범</Link>
         <Link to="/artist" className="hover:text-green-500">아티스트</Link>
@@ -24,11 +24,12 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/album" element={<Album />} />
         <Route path="/artist" element={<Artist />} />
+        <Route path="/" element={<Home />} />
         <Route path="/playlist" element={<Playlist />} />
         <Route path="/search" element={<Search />} />
         <Route path="/section" element={<Section />} />
       </Routes>
-    </Router>
+    </BrowserRouter>
   )
 }
 
