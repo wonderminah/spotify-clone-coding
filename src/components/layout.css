@@ -6,12 +6,19 @@
     --muted: #9aa0aa;
     --brand: #1db954;
     --panel-gap: 8px;
-    /* 컴포넌트 사이 갭 */
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    overflow-y: hidden;
 }
 
 body {
     background: var(--bg);
     color: var(--text);
+    padding: var(--panel-gap);
 }
 
 /* 전체 레이아웃: CSS Grid */
@@ -19,13 +26,13 @@ body {
     display: grid;
     grid-template-columns: 420px 1fr 420px;
     /* 좌측 / 메인 / 우측 */
-    grid-template-rows: 64px 1fr 90px;
+    grid-template-rows: 48px 1fr 72px;
     /* 상단 / 내용 / 하단 */
     grid-template-areas:
         "global-nav global-nav global-nav"
         "left-sidebar main-view right-sidebar"
         "now-playing-bar now-playing-bar now-playing-bar";
-    height: 100vh;
+    height: 100dvh;
     gap: var(--panel-gap);
 }
 
@@ -53,4 +60,5 @@ body {
 .now-playing-bar {
     border: 1px solid var(--line);
     grid-area: now-playing-bar;
+    padding: var(--panel-gap);
 }
