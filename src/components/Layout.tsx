@@ -1,16 +1,16 @@
 import { Outlet } from "react-router-dom";
-import GlobalNavBar from "./GlobalNavBar";
+import GlobalNav from "./GlobalNav";
 import LeftSidebar from "./LeftSidebar";
 import NowPlayingBar from "./NowPlayingBar";
-import NowPlayingView from "./NowPlayingView";
+import RightSidebar from "./RightSidebar";
 import "./layout.css";
 
 export default function Layout() {
     return (
         <div className="app-shell">
             {/* 상단 네비게이션 */}
-            <header className="global-nav-bar">
-                <GlobalNavBar />
+            <header className="global-nav">
+                <GlobalNav />
             </header>
 
             {/* 왼쪽 사이드바 */}
@@ -24,8 +24,8 @@ export default function Layout() {
             </main>
 
             {/* 우측 재생 뷰 */}
-            <aside className="now-playing-view">
-                <NowPlayingView />
+            <aside className="right-sidebar">
+                <RightSidebar />
             </aside>
 
             {/* 하단 재생 바 */}

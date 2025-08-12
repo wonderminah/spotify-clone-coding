@@ -1,0 +1,56 @@
+:root {
+    --bg: #0b0b0f;
+    --panel: #15151b;
+    --line: #242430;
+    --text: #e6e6eb;
+    --muted: #9aa0aa;
+    --brand: #1db954;
+    --panel-gap: 8px;
+    /* 컴포넌트 사이 갭 */
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+}
+
+/* 전체 레이아웃: CSS Grid */
+.app-shell {
+    display: grid;
+    grid-template-columns: 420px 1fr 420px;
+    /* 좌측 / 메인 / 우측 */
+    grid-template-rows: 64px 1fr 90px;
+    /* 상단 / 내용 / 하단 */
+    grid-template-areas:
+        "global-nav global-nav global-nav"
+        "left-sidebar main-view right-sidebar"
+        "now-playing-bar now-playing-bar now-playing-bar";
+    height: 100vh;
+    gap: var(--panel-gap);
+}
+
+/* 영역별 스타일 */
+.global-nav {
+    border: 1px solid var(--line);
+    grid-area: global-nav;
+}
+
+.left-sidebar {
+    border: 1px solid var(--line);
+    grid-area: left-sidebar;
+}
+
+.main-view {
+    border: 1px solid var(--line);
+    grid-area: main-view;
+}
+
+.right-sidebar {
+    border: 1px solid var(--line);
+    grid-area: right-sidebar;
+}
+
+.now-playing-bar {
+    border: 1px solid var(--line);
+    grid-area: now-playing-bar;
+}
