@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import Playlist from "./pages/Playlist";
 import Search from "./pages/Search";
 import Section from "./pages/Section";
+import Layout from './components/Layout';
 
 function App() {
   return (
@@ -21,13 +22,16 @@ function App() {
       </nav>
 
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/album" element={<Album />} />
-        <Route path="/artist" element={<Artist />} />
-        <Route path="/" element={<Home />} />
-        <Route path="/playlist" element={<Playlist />} />
-        <Route path="/search" element={<Search />} />
-        <Route path="/section" element={<Section />} />
+        {/* Layout을 부모로 지정 */}
+        <Route element={<Layout />}>
+          <Route path="/" element={<Home />} />
+          <Route path="/album" element={<Album />} />
+          <Route path="/artist" element={<Artist />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/playlist" element={<Playlist />} />
+          <Route path="/search" element={<Search />} />
+          <Route path="/section" element={<Section />} />
+        </Route>
       </Routes>
     </BrowserRouter>
   )
