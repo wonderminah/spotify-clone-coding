@@ -1,3 +1,5 @@
+@import './font.css';
+
 :root {
     --bg: #0b0b0f;
     --panel: #15151b;
@@ -11,6 +13,7 @@
 /* 테스팅용 보더 */
 * {
     border: 1px solid var(--line);
+    font-family: SpotifyMix-Light;
 }
 
 body {
@@ -24,8 +27,10 @@ body {
 /* 전체 레이아웃: CSS Grid */
 .app-shell {
     display: grid;
-    grid-template-columns: 420px 1fr 420px; /* 좌측 / 메인 / 우측 */
-    grid-template-rows: 48px 1fr 72px; /* 상단 / 내용 / 하단 */
+    grid-template-columns: 420px 1fr 420px;
+    /* 좌측 / 메인 / 우측 */
+    grid-template-rows: 48px 1fr 72px;
+    /* 상단 / 내용 / 하단 */
     grid-template-areas:
         "global-nav global-nav global-nav"
         "left-sidebar main-view right-sidebar"
