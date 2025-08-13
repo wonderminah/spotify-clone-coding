@@ -8,14 +8,17 @@
     --panel-gap: 8px;
 }
 
+/* 테스팅용 보더 */
+* {
+    border: 1px solid var(--line);
+}
+
 body {
-    height: 100%;
-    margin: 0;
     background: var(--bg);
     color: var(--text);
     padding: var(--panel-gap);
     /* 페이지 전체 스크롤 막기 */
-    /* overflow: hidden;  */
+    /* overflow-x: hidden;  */
 }
 
 /* 전체 레이아웃: CSS Grid */
@@ -33,27 +36,22 @@ body {
 
 /* 영역별 스타일 */
 .global-nav {
-    border: 1px solid var(--line);
     grid-area: global-nav;
 }
 
 .left-sidebar {
-    border: 1px solid var(--line);
     grid-area: left-sidebar;
 }
 
 .main-view {
-    border: 1px solid var(--line);
     grid-area: main-view;
 }
 
 .right-sidebar {
-    border: 1px solid var(--line);
     grid-area: right-sidebar;
 }
 
 .now-playing-bar {
-    border: 1px solid var(--line);
     grid-area: now-playing-bar;
-    padding: var(--panel-gap);
+    /* padding: var(--panel-gap); */
 }
