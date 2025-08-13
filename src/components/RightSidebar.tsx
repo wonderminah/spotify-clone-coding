@@ -3,9 +3,9 @@
 // rowGap 주려면 Flex 나 Grid 주어야 함
 export default function RightSidebar() {
   return (
-    <div style={{ padding: '16px' }}>
+    <div style={{ height: 'calc(100vh - 140px)', overflowY: 'auto', padding: '16px' }}>
       <aside>
-        <div style={{ rowGap: '16px' }}>
+        <div>
           {/* 1) 앨범 자켓 */}
           <div style={{
             height: '380px',
