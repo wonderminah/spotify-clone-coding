@@ -110,421 +110,625 @@ export default function Home() {
             </div>
 
             {/* Made For Mina Kim */}
-
-            <div>Made For Mina Kim</div>
-            <div style={{ height: '250px', overflowX: 'auto', overflowY: 'hidden' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Made For Mina Kim</div>
+                <div style={{ height: '250px', overflowX: 'auto', overflowY: 'hidden' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
-
+            </section>
 
             {/* Jump back in */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Jump back in</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
-
+            </section>
+            
             {/* Recently played */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Recently played</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* New releases for you */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>New releases for you</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* Your top mixes */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Your top mixes</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* Recommended for today */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Recommended for today</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* Your favorite artists */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Your favorite artists</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* Based on your recent listening */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Based on your recent listening</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* Albums featuring songs you like */}
-            <div style={{ height: '250px', overflowX: 'auto' }}>
-                <div style={{ display: 'flex', width: 'fit-content' }}>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
-                    </div>
-                    <div style={{ width: '200px' }}>
-                        <div>앨범</div>
-                        <div>설명</div>
+            <section style={{ minWidth: 0 }}>
+                <div>Albums featuring songs you like</div>
+                <div style={{ height: '250px', overflowX: 'auto' }}>
+                    <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
+                        <div style={{ width: '200px' }}>
+                            <div>
+                                <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
+                            </div>
+                            <div>설명</div>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </section>
 
             {/* K-Indie,Rock & Various Genres */}
         </div>
