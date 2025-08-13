@@ -8,26 +8,21 @@
     --panel-gap: 8px;
 }
 
-html,
 body {
     height: 100%;
     margin: 0;
-    overflow-y: hidden;
-}
-
-body {
     background: var(--bg);
     color: var(--text);
     padding: var(--panel-gap);
+    /* 페이지 전체 스크롤 막기 */
+    /* overflow: hidden;  */
 }
 
 /* 전체 레이아웃: CSS Grid */
 .app-shell {
     display: grid;
-    grid-template-columns: 420px 1fr 420px;
-    /* 좌측 / 메인 / 우측 */
-    grid-template-rows: 48px 1fr 72px;
-    /* 상단 / 내용 / 하단 */
+    grid-template-columns: 420px 1fr 420px; /* 좌측 / 메인 / 우측 */
+    grid-template-rows: 48px 1fr 72px; /* 상단 / 내용 / 하단 */
     grid-template-areas:
         "global-nav global-nav global-nav"
         "left-sidebar main-view right-sidebar"
