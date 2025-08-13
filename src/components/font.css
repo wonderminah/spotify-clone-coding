@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'SpotifyMix-Black';
+    src: url('../assets/font/SpotifyMix-Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-BlackItalic';
+    src: url('../assets/font/SpotifyMix-BlackItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Bold';
+    src: url('../assets/font/SpotifyMix-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-BoldItalic';
+    src: url('../assets/font/SpotifyMix-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Extrabold';
+    src: url('../assets/font/SpotifyMix-Extrabold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-ExtraboldItalic';
+    src: url('../assets/font/SpotifyMix-ExtraboldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Light';
+    src: url('../assets/font/SpotifyMix-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-LightItalic';
+    src: url('../assets/font/SpotifyMix-LightItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Medium';
+    src: url('../assets/font/SpotifyMix-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-MediumItalic';
+    src: url('../assets/font/SpotifyMix-MediumItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Regular';
+    src: url('../assets/font/SpotifyMix-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-RegularItalic';
+    src: url('../assets/font/SpotifyMix-RegularItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Thin';
+    src: url('../assets/font/SpotifyMix-Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-Ultra';
+    src: url('../assets/font/SpotifyMix-Ultra.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SpotifyMix-UltraItalic';
+    src: url('../assets/font/SpotifyMix-UltraItalic.woff2') format('woff2');
+}
