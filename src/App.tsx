@@ -12,15 +12,6 @@ import Layout from './components/Layout';
 function App() {
   return (
     <BrowserRouter>
-      {/* <nav className="bg-gray-900 text-white p-4 flex gap-4">
-        <Link to="/album" className="hover:text-green-500">앨범</Link>
-        <Link to="/artist" className="hover:text-green-500">아티스트</Link>
-        <Link to="/" className="hover:text-green-500">홈</Link>
-        <Link to="/playlist" className="hover:text-green-500">플레이리스트</Link>
-        <Link to="/search" className="hover:text-green-500">검색</Link>
-        <Link to="/section" className="hover:text-green-500">섹션</Link>
-      </nav> */}
-
       <Routes>
         {/* Layout을 부모로 지정 */}
         <Route element={<Layout />}>

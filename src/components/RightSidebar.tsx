@@ -1,9 +1,11 @@
 // RightSidebar 에만 스크롤 주려면 어떻게?
+// 버튼
+// rowGap 주려면 Flex 나 Grid 주어야 함
 export default function RightSidebar() {
   return (
     <div style={{ padding: '16px' }}>
       <aside>
-        <div style={{ gap: '16px' }}>
+        <div style={{ rowGap: '16px' }}>
           {/* 1) 앨범 자켓 */}
           <div style={{
             height: '380px',
@@ -12,7 +14,7 @@ export default function RightSidebar() {
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat'
           }}>
-            
+
           </div>
           {/* 2) 오디오 영상 */}
           {/* 3) 뮤직비디오 */}
@@ -27,7 +29,6 @@ export default function RightSidebar() {
 
           {/* 노래제목, 아티스트명 */}
           <div>
-            노래제목, 아티스트명
             <div>
               <a>
                 <span>Follow</span>
@@ -48,23 +49,43 @@ export default function RightSidebar() {
               {/* 뮤비 담는 컨테이너 */}
               <div style={{ display: 'flex', width: 'fit-content' }}>
                 {/* 뮤비 블록 */}
-                <div style={{ width: '210px', height: '177px' }}>
-                  <div>비디오 썸네일</div>
+                <div style={{ width: '210px' }}>
+                  <div style={{
+                    backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    height: '109px'
+                  }}>비디오 썸네일</div>
                   <div>WICKED</div>
                   <div>ALLDAY PROJECT</div>
                 </div>
-                <div style={{ width: '210px', height: '177px' }}>
-                  <div>비디오 썸네일</div>
+                <div style={{ width: '210px' }}>
+                <div style={{
+                    backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    height: '109px'
+                  }}>비디오 썸네일</div>
                   <div>WICKED</div>
                   <div>ALLDAY PROJECT</div>
                 </div>
-                <div style={{ width: '210px', height: '177px' }}>
-                  <div>비디오 썸네일</div>
+                <div style={{ width: '210px' }}>
+                <div style={{
+                    backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    height: '109px'
+                  }}>비디오 썸네일</div>
                   <div>WICKED</div>
                   <div>ALLDAY PROJECT</div>
                 </div>
-                <div style={{ width: '210px', height: '177px' }}>
-                  <div>비디오 썸네일</div>
+                <div style={{ width: '210px' }}>
+                <div style={{
+                    backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    height: '109px'
+                  }}>비디오 썸네일</div>
                   <div>WICKED</div>
                   <div>ALLDAY PROJECT</div>
                 </div>
@@ -81,7 +102,6 @@ export default function RightSidebar() {
               backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
-              backgroundRepeat: 'no-repeat'
             }}>
               <div style={{ padding: '16px' }}>
                 <div>About the artist</div>
@@ -95,7 +115,9 @@ export default function RightSidebar() {
               <div style={{ display: 'flex' }}>
                 <div>68,089 monthly listeners</div>
                 {/* 팔로우 버튼은 오른쪽 정렬 */}
-                <div style={{ marginLeft: 'auto' }}><button>Follow</button></div>
+                <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
+                  <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                </div>
               </div>
 
               {/* 설명 */}
@@ -140,7 +162,7 @@ export default function RightSidebar() {
                   </div>
                 </div>
                 <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                  <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
                 </div>
               </div>
             </div>
@@ -157,7 +179,7 @@ export default function RightSidebar() {
                   </div>
                 </div>
                 <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                  <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
                 </div>
               </div>
             </div>
@@ -245,7 +267,7 @@ export default function RightSidebar() {
             </div>
           </div>
         </div>
-      </aside>
-    </div>
+      </aside >
+    </div >
   );
 }
