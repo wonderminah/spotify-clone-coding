@@ -33,26 +33,31 @@ export default function RightSidebar() {
           {/* Related music videos */}
           <div style={{ padding: '16px', border: '1px solid #242430' }}>
             <div>Related music videos</div>
-            <div style={{ overflowX: 'auto' }}>
-              <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
-                <div>비디오 썸네일</div>
-                <div>WICKED</div>
-                <div>ALLDAY PROJECT</div>
-              </div>
-              <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
-                <div>비디오 썸네일</div>
-                <div>WICKED</div>
-                <div>ALLDAY PROJECT</div>
-              </div>
-              <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
-                <div>비디오 썸네일</div>
-                <div>WICKED</div>
-                <div>ALLDAY PROJECT</div>
-              </div>
-              <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
-                <div>비디오 썸네일</div>
-                <div>WICKED</div>
-                <div>ALLDAY PROJECT</div>
+            {/* 가로 스크롤 */}
+            <div style={{ width: '356px', overflowX: 'auto' }}>
+              {/* 뮤비 담는 컨테이너 */}
+              <div style={{ display: 'flex', width: 'fit-content' }}>
+                {/* 뮤비 블록 */}
+                <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
+                  <div>비디오 썸네일</div>
+                  <div>WICKED</div>
+                  <div>ALLDAY PROJECT</div>
+                </div>
+                <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
+                  <div>비디오 썸네일</div>
+                  <div>WICKED</div>
+                  <div>ALLDAY PROJECT</div>
+                </div>
+                <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
+                  <div>비디오 썸네일</div>
+                  <div>WICKED</div>
+                  <div>ALLDAY PROJECT</div>
+                </div>
+                <div style={{ width: '210px', height: '177px', border: '1px solid #242430' }}>
+                  <div>비디오 썸네일</div>
+                  <div>WICKED</div>
+                  <div>ALLDAY PROJECT</div>
+                </div>
               </div>
             </div>
           </div>
