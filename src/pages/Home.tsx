@@ -20,7 +20,7 @@ export default function Home() {
                 // TODO: 미디어 쿼리를 써서 , min-width: 0일때는 (2, 1fr), min-width: 700px일때는 (4, 1fr)
                 gridTemplateColumns: 'repeat(4, 1fr)' // 두 개의 열이 화면 크기에 맞춰 똑같이 늘었다 줄었다 함 
             }}>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -31,7 +31,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -46,7 +46,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -57,7 +57,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -72,7 +72,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -83,7 +83,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -98,7 +98,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -109,7 +109,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -124,7 +124,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -135,7 +135,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -150,7 +150,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -161,7 +161,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -176,7 +176,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -187,7 +187,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
@@ -202,7 +202,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div style={{ display: 'block', borderRadius: '4px' }}>
+                <div style={{ display: 'block', backgroundColor: '#ffffff1a', borderRadius: '4px', overflow: 'hidden' }}>
                     <div style={{ display: 'flex' }}>
                         <div style={{
                             backgroundImage: 'url(https://i.scdn.co/image/ab6761670000ecd430d8fcf55dc435d96a663f43)',
@@ -213,7 +213,7 @@ export default function Home() {
                         }}></div>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
                             {/* /album/ 뒤에 타겟 ID 들어가야 함 */}
-                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/"> 
+                            <a draggable="false" title="K-Pop Today (Japan)" href="/album/">
                                 <p style={{
                                     display: '-webkit-box',
                                     overflow: 'hidden',
