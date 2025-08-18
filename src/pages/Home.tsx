@@ -232,64 +232,68 @@ export default function Home() {
 
             {/* Made For Mina Kim */}
             <section style={{ minWidth: 0 }}>
-                <div>Made For Mina Kim</div>
+                <div>
+                    <span >
+                        <a draggable="false" href="/section/:id" className="text-medium">Made For Mina Kim</a>
+                    </span>
+                </div>
                 <div style={{ height: '250px', overflowX: 'auto', overflowY: 'hidden' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -304,61 +308,61 @@ export default function Home() {
                 <div>Jump back in</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -373,61 +377,61 @@ export default function Home() {
                 <div>Recently played</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -442,61 +446,61 @@ export default function Home() {
                 <div>New releases for you</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -511,61 +515,61 @@ export default function Home() {
                 <div>Your top mixes</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -580,61 +584,61 @@ export default function Home() {
                 <div>Recommended for today</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -649,61 +653,61 @@ export default function Home() {
                 <div>Your favorite artists</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -718,61 +722,61 @@ export default function Home() {
                 <div>Based on your recent listening</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
@@ -787,61 +791,61 @@ export default function Home() {
                 <div>Albums featuring songs you like</div>
                 <div style={{ height: '250px', overflowX: 'auto' }}>
                     <div style={{ display: 'flex', width: 'fit-content', columnGap: '18px' }}>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
                             <div>설명</div>
                         </div>
-                        <div style={{ width: '200px' }}>
+                        <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
