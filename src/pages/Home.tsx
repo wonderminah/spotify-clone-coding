@@ -1,7 +1,7 @@
 // TODO: height: 240px 은 테스트용이므로 나중에 지우기
 export default function Home() {
     return (
-        <div style={{ backgroundColor: '#121212', borderRadius: '8px', height: 'calc(100vh - 140px)', overflowY: 'auto', paddingLeft: '40px', padding: '20px 40px', display: 'grid', rowGap: '24px' }}>
+        <div style={{ borderRadius: '8px', height: 'calc(100vh - 140px)', overflowY: 'auto', paddingLeft: '40px', padding: '20px 40px', display: 'grid', rowGap: '24px' }}>
             {/* All, Music, Podcasts */}
             <div style={{ height: '40px', display: 'flex', columnGap: '8px', alignItems: 'center' }}>
                 <div style={{ border: '1px solid #818181', borderRadius: '9999px', padding: '4px 12px' }}>All</div>

@@ -8,11 +8,13 @@
     --muted: #9aa0aa;
     --brand: #1db954;
     --panel-gap: 8px;
+
+    --text-medium: 1.5rem;
 }
 
 /* 테스팅용 보더 */
 * {
-    border: 1px solid var(--line);
+    /* border: 1px solid var(--line); */
     font-family: SpotifyMix-Light;
 }
 
@@ -21,7 +23,9 @@ body {
     color: var(--text);
     padding: var(--panel-gap);
     /* 페이지 전체 스크롤 막기 */
-    /* overflow-x: hidden;  */
+    overflow-x: hidden; 
+    overflow-y: hidden; 
+    /* height: '100vh'; */
 }
 
 /* 전체 레이아웃: CSS Grid */
@@ -59,4 +63,15 @@ body {
 .now-playing-bar {
     grid-area: now-playing-bar;
     /* padding: var(--panel-gap); */
+}
+
+.text-medium {
+    font-size: var(--text-medium);
+    font-family: SpotifyMix-Medium;
+}
+
+.left-sidebar,
+.main-view,
+.right-sidebar {
+  background-color: #121212;
 }
