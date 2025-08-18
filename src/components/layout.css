@@ -10,6 +10,7 @@
     --panel-gap: 8px;
 
     --text-medium: 1.5rem;
+    --bg-surface: rgb(31, 31, 31);
 }
 
 /* 테스팅용 보더 */
@@ -23,8 +24,8 @@ body {
     color: var(--text);
     padding: var(--panel-gap);
     /* 페이지 전체 스크롤 막기 */
-    overflow-x: hidden; 
-    overflow-y: hidden; 
+    overflow-x: hidden;
+    overflow-y: hidden;
     /* height: '100vh'; */
 }
 
@@ -70,8 +71,34 @@ body {
     font-family: SpotifyMix-Medium;
 }
 
+/* 레이아웃 회색배경 */
 .left-sidebar,
 .main-view,
 .right-sidebar {
-  background-color: #121212;
+    background-color: #121212;
+}
+
+/* 레이아웃 박스 더 밝은 회색배경 */
+.right-sidebar__container {
+    background-color: var(--bg-surface);
+    border-radius: 12px;
+}
+
+/* 전역 텍스트 레귤러 폰트용 */
+.global__text-regular {
+    font-family: SpotifyMix-Regular;
+}
+
+/* 전역 텍스트 설명용 */
+.global__text-description {
+    color: #b3b3b3;
+    font-size: 0.875rem;
+}
+
+.card-rail__description {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	line-clamp: 2;
+	overflow: hidden;
 }

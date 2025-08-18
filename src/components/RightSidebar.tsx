@@ -10,8 +10,10 @@ export default function RightSidebar() {
           <div>
             <div style={{ display: 'flex', alignItems: 'center' }}>
               <button>B1</button>
-              <div>ALLDAY PROJECT
-                <a href="/artist/:id"></a>
+              <div>
+                <a href="/artist/:id">
+                  <h1 className="global__text-regular">ALLDAY PROJECT</h1>
+                </a>
               </div>
               <span style={{ marginLeft: 'auto' }}>
                 <div>
@@ -68,7 +70,7 @@ export default function RightSidebar() {
 
             {/* Related music videos */}
             <div>
-              <div>Related music videos</div>
+              <div></div>
               {/* 가로 스크롤 */}
               <div style={{ overflowX: 'auto' }}>
                 {/* 뮤비 담는 컨테이너 */}
@@ -107,7 +109,7 @@ export default function RightSidebar() {
             </div>
 
             {/* About the artist */}
-            <div>
+            <div className="right-sidebar__container">
 
               {/* 아티스트 사진 */}
               <div style={{
@@ -117,13 +119,15 @@ export default function RightSidebar() {
                 backgroundPosition: 'center',
               }}>
                 <div style={{ padding: '16px' }}>
-                  <div>About the artist</div>
+                  <div>
+                    <h2 className="global__text-regular">About the artist</h2>
+                  </div>
                 </div>
               </div>
               {/* 아티스트 정보 */}
-              <div style={{ padding: '16px' }}>
+              <div style={{ padding: '16px', display: 'flex', flexDirection: 'column', 'rowGap': '12px' }}>
                 {/* 아티스트 이름 */}
-                <div>U-KNOW</div>
+                <div className="global__text-regular">U-KNOW</div>
                 {/* 구독 리스너 수 및 팔로우 버튼*/}
                 <div style={{ display: 'flex' }}>
                   <div>68,089 monthly listeners</div>
@@ -134,14 +138,16 @@ export default function RightSidebar() {
                 </div>
 
                 {/* 설명 */}
-                <div>U-KNOW made his debut in 2003 as a member of TVXQ!, "The Rising Gods of the East", well-known as the "Kings of K-pop" for their immense success and...</div>
+                <div className="global__text-description">U-KNOW made his debut in 2003 as a member of TVXQ!, "The Rising Gods of the East", well-known as the "Kings of K-pop" for their immense success and...</div>
               </div>
             </div>
 
             {/* Credits */}
-            <div style={{ padding: '16px', gap: '12px', display: 'grid' }}>
+            <div className="right-sidebar__container" style={{ padding: '16px', gap: '12px', display: 'grid' }}>
               <div style={{ display: 'flex' }}>
-                <div>Credits</div>
+                <div>
+                  <h2>Credits</h2>
+                </div>
                 <div style={{ marginLeft: 'auto' }}><button>Show all</button></div>
               </div>
               <div>
@@ -153,7 +159,7 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span>Main Artist</span>
+                      <span className="global__text-description">Main Artist</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
@@ -171,7 +177,7 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span>Composer, Arranger, Lyricist</span>
+                      <span className="global__text-description">Composer, Arranger, Lyricist</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
@@ -188,7 +194,7 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span>Composer, Arranger</span>
+                      <span className="global__text-description">Composer, Arranger</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
@@ -199,13 +205,13 @@ export default function RightSidebar() {
             </div>
 
             {/* On tour */}
-            <div style={{ padding: '16px' }}>
+            <div className="right-sidebar__container" style={{ padding: '16px' }}>
 
               {/* 타이틀 및 Show all 버튼 */}
               <div style={{ display: 'flex' }}>
                 {/* 타이틀 */}
                 <div>
-                  On tour
+                  <h2>On tour</h2>
                 </div>
                 {/* Open queue 버튼 */}
                 <div style={{ marginLeft: 'auto' }}>
@@ -219,15 +225,15 @@ export default function RightSidebar() {
                     날짜
                   </div>
                   <div>
-                    <div>
+                    <h3>
                       Bristol
-                    </div>
-                    <div>
+                    </h3>
+                    <p className="global__text-description">
                       Mac Ayres
-                    </div>
-                    <div>
-                      Wed 7:00PM
-                    </div>
+                    </p>
+                    <span className="global__text-description">
+                      <time>Wed 7:00PM</time>
+                    </span>
                   </div>
                 </div>
                 <div style={{ display: 'flex', columnGap: '16px' }}>
@@ -235,27 +241,27 @@ export default function RightSidebar() {
                     날짜
                   </div>
                   <div>
-                    <div>
-                      Manchester
-                    </div>
-                    <div>
+                    <h3>
+                      Bristol
+                    </h3>
+                    <p className="global__text-description">
                       Mac Ayres
-                    </div>
-                    <div>
-                      Thu 7:00PM
-                    </div>
+                    </p>
+                    <span className="global__text-description">
+                      <time>Wed 7:00PM</time>
+                    </span>
                   </div>
                 </div>
               </div>
             </div>
 
             {/* Next in queue */}
-            <div style={{ padding: '16px' }}>
+            <div className="right-sidebar__container" style={{ padding: '16px' }}>
               {/* 타이틀 및 Open queue 버튼 */}
               <div style={{ display: 'flex' }}>
                 {/* 타이틀 */}
                 <div>
-                  Next in queue
+                  <h2>Next in queue</h2>
                 </div>
                 {/* Open queue 버튼 */}
                 <div style={{ marginLeft: 'auto' }}>
@@ -273,7 +279,7 @@ export default function RightSidebar() {
                   <div>
                     Slow Down
                   </div>
-                  <div>
+                  <div className="global__text-description">
                     Mac Ayres
                   </div>
                 </div>
