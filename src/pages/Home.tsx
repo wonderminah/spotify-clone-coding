@@ -243,61 +243,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -312,61 +312,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -381,61 +381,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -450,61 +450,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -519,61 +519,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -588,61 +588,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -657,61 +657,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -726,61 +726,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>
@@ -795,61 +795,61 @@ export default function Home() {
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                         <div style={{ width: '180px' }}>
                             <div>
                                 <img style={{ borderRadius: '6px' }} src="https://i.scdn.co/image/ab67616d00001e024ba287ffc98735a7c801be3e"></img>
                             </div>
-                            <div className="card-rail__description global__text-description">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
+                            <div className="card-rail__description global__encore-text-body-small">Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday. You’ll know when you hear it.</div>
                         </div>
                     </div>
                 </div>

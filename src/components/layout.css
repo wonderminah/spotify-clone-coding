@@ -9,6 +9,9 @@
     --brand: #1db954;
     --panel-gap: 8px;
 
+    --encore-text-size-smaller: 0.875rem;
+    --encore-text-size-base: 1rem;
+
     --text-medium: 1.5rem;
     --bg-surface: rgb(31, 31, 31);
 }
@@ -90,9 +93,20 @@ body {
 }
 
 /* 전역 텍스트 설명용 */
-.global__text-description {
+.global__encore-text-body-small {
     color: #b3b3b3;
-    font-size: 0.875rem;
+}
+
+.global__encore-text-body-small,
+.global__encore-text-body-small-bold {
+    /* font-family 도 지정 */
+    font-size: var(--encore-text-size-smaller);
+}
+
+.global__encore-text-body-medium,
+.global__encore-text-body-medium-bold {
+    /* font-family 도 지정 */
+    font-size: var(--encore-text-size-base);
 }
 
 .card-rail__description {

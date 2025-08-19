@@ -133,12 +133,12 @@ export default function RightSidebar() {
                   <div>68,089 monthly listeners</div>
                   {/* 팔로우 버튼은 오른쪽 정렬 */}
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                    <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                    <button style={{ border: '1px solid #818181', borderRadius: '9999px', width: '70px', height: '30px' }}>Follow</button>
                   </div>
                 </div>
 
                 {/* 설명 */}
-                <div className="global__text-description">U-KNOW made his debut in 2003 as a member of TVXQ!, "The Rising Gods of the East", well-known as the "Kings of K-pop" for their immense success and...</div>
+                <div className="global__encore-text-body-small">U-KNOW made his debut in 2003 as a member of TVXQ!, "The Rising Gods of the East", well-known as the "Kings of K-pop" for their immense success and...</div>
               </div>
             </div>
 
@@ -159,11 +159,11 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span className="global__text-description">Main Artist</span>
+                      <span className="global__encore-text-body-small">Main Artist</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                    <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                    <button className="global__encore-text-body-small-bold" style={{ border: '1px solid #818181', borderRadius: '9999px', width: '70px', height: '30px' }}>Follow</button>
                   </div>
                 </div>
               </div>
@@ -177,11 +177,11 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span className="global__text-description">Composer, Arranger, Lyricist</span>
+                      <span className="global__encore-text-body-small">Composer, Arranger, Lyricist</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                    <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                    <button className="global__encore-text-body-small-bold" style={{ border: '1px solid #818181', borderRadius: '9999px', width: '70px', height: '30px' }}>Follow</button>
                   </div>
                 </div>
               </div>
@@ -194,18 +194,18 @@ export default function RightSidebar() {
                       </a>
                     </div>
                     <div>
-                      <span className="global__text-description">Composer, Arranger</span>
+                      <span className="global__encore-text-body-small">Composer, Arranger</span>
                     </div>
                   </div>
                   <div style={{ marginLeft: 'auto', alignContent: 'center' }}>
-                    <button style={{ border: '1px solid #818181', borderRadius: '9999px' }}>Follow</button>
+                    <button className="global__encore-text-body-small-bold" style={{ border: '1px solid #818181', borderRadius: '9999px', width: '70px', height: '30px' }}>Follow</button>
                   </div>
                 </div>
               </div>
             </div>
 
             {/* On tour */}
-            <div className="right-sidebar__container" style={{ padding: '16px' }}>
+            <div className="right-sidebar__container" style={{ padding: '16px', gap: '12px', display: 'grid' }}>
 
               {/* 타이틀 및 Show all 버튼 */}
               <div style={{ display: 'flex' }}>
@@ -219,8 +219,8 @@ export default function RightSidebar() {
                 </div>
               </div>
               {/* 투어 리스트 */}
-              <div >
-                <div style={{ display: 'flex', columnGap: '16px' }}>
+              <div>
+                <a draggable="false" href="/concert/:id" style={{ display: 'flex', columnGap: '16px' }}>
                   <div style={{ width: '15%' }}>
                     날짜
                   </div>
@@ -228,35 +228,38 @@ export default function RightSidebar() {
                     <h3>
                       Bristol
                     </h3>
-                    <p className="global__text-description">
+                    <p className="global__encore-text-body-small">
                       Mac Ayres
                     </p>
-                    <span className="global__text-description">
+                    <span className="global__encore-text-body-small">
                       <time>Wed 7:00PM</time>
                     </span>
                   </div>
-                </div>
-                <div style={{ display: 'flex', columnGap: '16px' }}>
-                  <div style={{ width: '15%' }}>
-                    날짜
-                  </div>
-                  <div>
-                    <h3>
-                      Bristol
-                    </h3>
-                    <p className="global__text-description">
-                      Mac Ayres
-                    </p>
-                    <span className="global__text-description">
-                      <time>Wed 7:00PM</time>
-                    </span>
-                  </div>
-                </div>
+                </a>
               </div>
+              <div>
+                <a draggable="false" href="/concert/:id" style={{ display: 'flex', columnGap: '16px' }}>
+                  <div style={{ width: '15%' }}>
+                    날짜
+                  </div>
+                  <div>
+                    <h3>
+                      Bristol
+                    </h3>
+                    <p className="global__encore-text-body-small">
+                      Mac Ayres
+                    </p>
+                    <span className="global__encore-text-body-small">
+                      <time>Wed 7:00PM</time>
+                    </span>
+                  </div>
+                </a>
+              </div>
+
             </div>
 
             {/* Next in queue */}
-            <div className="right-sidebar__container" style={{ padding: '16px' }}>
+            <div className="right-sidebar__container" style={{ padding: '16px', gap: '12px', display: 'grid' }}>
               {/* 타이틀 및 Open queue 버튼 */}
               <div style={{ display: 'flex' }}>
                 {/* 타이틀 */}
@@ -279,7 +282,7 @@ export default function RightSidebar() {
                   <div>
                     Slow Down
                   </div>
-                  <div className="global__text-description">
+                  <div className="global__encore-text-body-small">
                     Mac Ayres
                   </div>
                 </div>
