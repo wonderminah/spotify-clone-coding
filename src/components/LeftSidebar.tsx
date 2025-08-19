@@ -42,7 +42,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -54,7 +54,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -66,7 +66,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -78,7 +78,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -90,7 +90,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -102,7 +102,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -114,7 +114,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -126,7 +126,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -138,7 +138,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -150,7 +150,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -162,7 +162,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -174,7 +174,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -186,7 +186,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -198,7 +198,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -210,7 +210,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -222,7 +222,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -234,7 +234,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -246,7 +246,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -258,7 +258,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
@@ -270,7 +270,7 @@ export default function LeftSidebar() {
             </div>
             <div>
               <p>Liked Songs</p>
-              <div className="global__text-description">
+              <div className="global__encore-text-body-small">
                 <span>핀</span>
                 <span>Playlist・631 songs</span>
               </div>
